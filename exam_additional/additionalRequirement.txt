@@ -1,0 +1,24 @@
+Additional requirements:
+=========================
+1 Multi layer
+It allows "grand parent" and so on, such as "parent of parent", and the parent of that.
+
+
+2 Free of messages order
+It allows any order of messages in CSV files. 
+For example, even though a parent message is after child message, 
+this application can load that CSV file and output correctly. 
+
+
+3 Sorting by time
+When output, each messages of same layer will be sorted by time (ascending).
+
+
+4 File output
+
+Enable user to choose output way among "console output" and "file output".
+When user add one more argument (file name), this application should output result to the specified file.
+The usage should be like :
+> python MessageTree.py <CSV file> [<output file>]
+
+ppp

@@ -1,0 +1,12 @@
+1,,2020-01-15 8:10:52,Alice,Chemistry class.
+2,,2020-01-15 8:12:25,Bob,Attended Chemistry class. Today is an exam day!
+3,2,2020-01-15 8:15:18,Charlie,I got it.
+4,2,2020-01-15 8:16:16,David,Really? I didn't know that... When did he say so?
+5,4,2020-01-15 8:22:30,Alice,2 weeks ago. I think you were absent that day.
+6,5,2020-01-15 10:42:25,David,Oh that's too bad... Thanks for sharing.
+7,5,2020-01-15 17:18:40,David,Finally I could not answer enough because of no preparation...
+8,2,2020-01-15 8:31:51,Eve,Thanks.
+9,8,2020-01-15 8:32:08,Bob,Try your best.
+10,,2020-01-15 8:14:06,Frank,I attended Chemistry class now.
+11,10,2020-01-15 8:21:35,Grace,Me too.
+12,10,2020-01-15 8:22:11,Heidi,Me too.
